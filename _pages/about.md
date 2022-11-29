@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student in the [Department of Physics](https://www2.uottawa.ca/faculty-science/physics) at the [University of Ottawa](https://www2.uottawa.ca/en) where I'm a member of the [Computational Nanophotonics](https://mysite.science.uottawa.ca/lramunno/) group headed by Dr. Lora Ramunno. 
+I'm a Ph.D. candidate in the [Department of Physics](https://www2.uottawa.ca/faculty-science/physics) at the [University of Ottawa](https://www2.uottawa.ca/en) where I'm a member of the [Computational Nanophotonics](https://mysite.science.uottawa.ca/lramunno/) group headed by Dr. Lora Ramunno. 
 
 I studied at Louisiana Tech where I received my bachelors degree in 2019 and I received my masters degree from the University of Ottawa in 2021. See my [CV](https://egnorris.github.io//cv/) for more details. 
 
