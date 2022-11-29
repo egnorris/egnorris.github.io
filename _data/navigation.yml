@@ -10,10 +10,10 @@ main:
   #  url: /teaching/    
     
   - title: "Photography"
-    url: /photography_portfolio/
+    url: /portfolio/
     
-   - title: "Projects"
-    url: /research_portfolio/
+  #- title: "Projects"
+  #  url: /projects/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
