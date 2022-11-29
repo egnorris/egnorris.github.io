@@ -11,49 +11,64 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, Louisiana Tech University, 2015
+* M.S. in Physics, University of Ottawa, 2021
+* Ph.D in Physics, University of Ottawa, 2025 (expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021-Present: Graduate Research Assistant
+  * University of Ottawa
+  * Supervisor: Dr. Lora Ramunno
+  * Research and Developement into solutions of inverse problems using deep learning and novel computational microscopy frameworks.
+  
+* 2019-2021: Graduate Research Assistant
+  * University of Ottawa
+  * Supervisor: Dr. Lora Ramunno
+  * Development and optimization of software and theoretical framework for tensorial ptychographic phase and orientation reconstruction of biological samples
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018-2019: Undergraduate Research Assistant
+  * Louisiana Tech University
+  * Supervisor: Dr. Pedro Derosa
+  * Development of software for the simulation of light scattering by aerosols and liquid suspensions
+
+* Summer 2018: Undergraduate Research Fellow
+  * State University of New York at Geneseo
+  * Supervisor: Dr. George Marcus
+  * Development of GPU accelerated software for the calculation of light scattering coefficients by aerosols
+
+* 2017-2018: Undergraduate Research Assistant
+  * Louisiana Tech University
+  * Supervisor: Dr. Pedro Derosa
+  * Further developement and optimization of high performance computing software for the simulation of carbon nano-composite sample growth
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Deep Learning and Artificial Intelligence
+* Numerical Optimization
+* High Performance Computing
+* Data Visualization
+* Scientific Programming
+  * Julia
+  * MATLAB
+  * C
+  * CUDA
+  * Python
+
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+["Ptychography for Nonlinear Optical Microscopy"](http://dx.doi.org/10.20381/ruor-26868) (2021)
+
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+["Orientation Imaging using Tensorial Ptychography"](https://doi.org/10.1364/COSI.2022.CTh3C.5) (2022)
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Secretary and Communications Officer for the Physics Graduate Student Association at the University of Ottawa (2022-Present)
+* Reviewer for the University of Ottawa Journal of Medicine (2021-2022)
+* Secretary for the Physics Graduate Student Association at the University of Ottawa (2021-2022)
+* President of the Society of Physics Student Louisiana Tech University Chapter (2018-2019)
