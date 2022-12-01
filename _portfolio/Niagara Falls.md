@@ -1,4 +1,3 @@
-
 ---
 title: "Niagara Falls"
 excerpt: "<br/><img src='https://i.imgur.com/pYLiTBV.jpg'>"
