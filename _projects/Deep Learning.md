@@ -1,9 +1,7 @@
 ---
-title: "Deep Learning for Inverse Design"
-excerpt: "<br/><img src='https://i.imgur.com/BucBpbN.png'>"
+title: "Prediction of Optical Scattering from Plasmonic Nanostructures using Convolutional Neural Networks"
 collection: projects
 ---
 
-<br/><img src='https://i.imgur.com/BucBpbN.png'>
 
-[Tensorial framework of ptychographic for simultaneous reconstruction of second order nonlinear optical susceptibility tensor components and analytical method for extracting orientation information from numerically generated collagen sample is demonstrated.](https://doi.org/10.1364/COSI.2022.CTh3C.5)
+In this project we develop a machine learning framework for the prediction of far-field optical scattering from arbitrarily shaped individual plasmonic nanoparticles based on the multipole expansion solution of maxwell's equations[Abstract](https://doi.org/10.1364/CLEO_FS.2023.FW3C.3)
