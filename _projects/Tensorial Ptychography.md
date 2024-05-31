@@ -8,4 +8,4 @@ collection: projects
 
 Tensorial framework of ptychographic for simultaneous reconstruction of second order nonlinear optical susceptibility tensor components and analytical method for extracting orientation information from numerically generated collagen sample is demonstrated.[Abstract](https://doi.org/10.1364/COSI.2022.CTh3C.5)
 
-[More Details](https://egnorris.github.io/projects/quarto-demo.html)
+[Detailed Demonstration](https://egnorris.github.io/projects/QuartoTensorialPtychography.html)
